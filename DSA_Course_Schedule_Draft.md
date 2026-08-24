@@ -2,11 +2,11 @@
 Fall 2026 · Solano Community College · Asynchronous online · Two ~30-min videos/week
 Text: Sedgewick & Wayne, *Algorithms*, 4th Edition (chapters 1–5)
 
-Term runs Aug 17–Dec 18, 2026 (you're starting content the week of Aug 24). Finals: Dec 12–18.
+Finals: Dec 12–18.
 
 | Week | Dates | Video 1 | Video 2 | Notes |
 |---|---|---|---|---|
-| 1 | Aug 24–30 | Java Review 1: syntax, variables, control flow, OOP basics | Java Review 2: classes/objects, arrays, generics & collections intro | Start of class content (term officially began 8/17) |
+| 1 | Aug 24–30 | Java Review 1: syntax, variables, control flow, OOP basics | Java Review 2: classes/objects, arrays, generics & collections intro | |
 | 2 | Aug 31–Sep 6 | Java Review 3: recursion, exceptions, thinking about efficiency | 1.1 Programming Model | Completes 1.5 weeks of Java review |
 | 3 | Sep 7–13 | 1.2 Data Abstraction | 1.3 Stacks and Queues (part 1) | Labor Day 9/7 (no classes) |
 | 4 | Sep 14–20 | 1.3 Stacks and Queues (part 2) | 1.4 Analysis of Algorithms | Split 1.3 across two videos — foundational topic |
