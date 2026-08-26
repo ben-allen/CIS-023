@@ -9,6 +9,8 @@
 - **Office Hours:** 1:30–2:30 PM, Monday through Thursday
 - **Credit hours:** 3
 
+- **"Class meeting time:"** I will be recording videos for each week on Friday mornings, starting at 7:30 AM and going until 9:00 AM. I'll be recording these videos via Zoom, and if you're able to join I encourage you to -- it's a good time to ask questions. However, this is indeed an *asynchronous* course, and so "attendance" is in no way required.
+
 ## Course Overview
 
 Data Structures and Algorithms introduces students to basic algorithms and problem-solving techniques using object-oriented programming as a tool. The course is intended for students who are comfortable programming in Java and will teach computation skills that will be helpful in computer science or engineering, as well as analytical skills that should be helpful in any field.
