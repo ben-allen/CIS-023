@@ -92,9 +92,9 @@ The title to this book is *Introduction to Algorithms*, but literally no one cal
 
 ## Required Software
 
-We will be using [IntelliJ IDEA](https://www.jetbrains.com/idea/) in this class. Use the free community edition — the only reason to pay money for IntelliJ is if you're a large corporation.
+We will be using [Eclipse](https://www.jetbrains.com/idea/) in this class. They will ask you to donate money when you download it. It is not necessary, and you probbly shouldn't do that.
 
-If you already have extensive experience with another Java IDE, or if you're experienced with developing Java programs from the command line, it is perfectly fine for you to continue using your preferred environment. However, I won't be able to provide significant technical support, since most of the Java development I've done in my life has either been in IntelliJ or in specialized IDEs for developing Android programs.
+If you already have extensive experience with another Java IDE, or if you're experienced with developing Java programs from the command line, it is perfectly fine for you to continue using your preferred environment. However, I won't be able to provide significant technical support for anything but Eclipse or IntelliJ, since most of the Java development I've done in my life has either been in Eclipse, IntelliJ, or in specialized IDEs for developing Android programs.
 
 ### GitHub
 
