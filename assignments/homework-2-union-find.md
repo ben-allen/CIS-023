@@ -9,6 +9,21 @@ In this assignment you'll:
 
 This assignment builds directly on [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html): `Labels` becomes quick-find, and `Pointers` becomes quick-union's `find`.
 
+
+## Starter code
+
+The starter files are in the course repo:
+
+- [`QuickFindUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/QuickFindUF.java)
+- [`QuickUnionUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/QuickUnionUF.java)
+- [`UFClient.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/UFClient.java)
+- [`WeightedQuickUnionUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/WeightedQuickUnionUF.java) (extra credit only)
+- [`uf.txt`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/uf.txt)
+
+To download a file, open its link and click the download button (the downward arrow) near the top right of the file view. Don't copy and paste from the page, since it's easy to miss a line or pick up stray formatting.
+
+You can also browse everything at once in the [starter code folder](https://github.com/ben-allen/CIS-023/tree/main/assignments/union-find). The four `.java` files are in the `hw2` subfolder, and `uf.txt` is at the top level.
+
 ## Setup
 
 - Create a package called `hw2` in your project's `src` folder.
