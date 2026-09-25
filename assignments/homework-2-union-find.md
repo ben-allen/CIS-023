@@ -16,11 +16,11 @@ This assignment builds directly on [Java Primer and Practice](https://ben-allen.
 - Download `uf.txt` and put it in your project's root folder, not in `src`.
 
 
-The files you'll be completeing are `QuickFindUF.java`, `QuickUnionUF.java`, and (if you're interestd) `WeightedQuickUnionUF.java`. 
+The files you'll be completing are `QuickFindUF.java`, `QuickUnionUF.java`, and (if you're interested) `WeightedQuickUnionUF.java`. 
 
 `UFClient` is provided complete, and you shouldn't change it. Use it to test your classes. For each pair, if `p` and `q` aren't already connected, it unions them and prints the pair. At the end, it prints the number of components.
 
-Everything you need to know to complete this assignment can be found on the [union-find slideset](https://github.com/ben-allen/CIS-023/blob/main/slides/cis%20023%20-%20union-find.pdf)
+Everything you need to know to complete this assignment can be found on the [union-find slideset](https://github.com/ben-allen/CIS-023/blob/main/slides/cis%20023%20-%20union-find.pdf), and in the associated videos (available in Module 2 on canvas)
 
 
 ### The union rule
