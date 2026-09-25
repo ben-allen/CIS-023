@@ -7,22 +7,22 @@ In this assignment you'll:
     - quick-union
 * trace them by hand. 
 
-This assignment builds directly on [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html): `Labels` becomes quick-find, and `Pointers` becomes quick-union's `find`.
+This assignment builds directly on [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html){:target="_blank" rel="noopener"}: `Labels` becomes quick-find, and `Pointers` becomes quick-union's `find`.
 
 
 ## Starter code
 
 The starter files are in the course repo:
 
-- [`QuickFindUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/QuickFindUF.java)
-- [`QuickUnionUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/QuickUnionUF.java)
-- [`UFClient.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/UFClient.java)
-- [`WeightedQuickUnionUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/WeightedQuickUnionUF.java) (extra credit only)
-- [`uf.txt`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/uf.txt)
+- [`QuickFindUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/QuickFindUF.java){:target="_blank" rel="noopener"}
+- [`QuickUnionUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/QuickUnionUF.java){:target="_blank" rel="noopener"}
+- [`UFClient.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/UFClient.java){:target="_blank" rel="noopener"}
+- [`WeightedQuickUnionUF.java`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/hw2/WeightedQuickUnionUF.java){:target="_blank" rel="noopener"} (extra credit only)
+- [`uf.txt`](https://github.com/ben-allen/CIS-023/blob/main/assignments/union-find/uf.txt){:target="_blank" rel="noopener"}
 
 To download a file, open its link and click the download button (the downward arrow) near the top right of the file view. Don't copy and paste from the page, since it's easy to miss a line or pick up stray formatting.
 
-You can also browse everything at once in the [starter code folder](https://github.com/ben-allen/CIS-023/tree/main/assignments/union-find). The four `.java` files are in the `hw2` subfolder, and `uf.txt` is at the top level.
+You can also browse everything at once in the [starter code folder](https://github.com/ben-allen/CIS-023/tree/main/assignments/union-find){:target="_blank" rel="noopener"}. The four `.java` files are in the `hw2` subfolder, and `uf.txt` is at the top level.
 
 ## Setup
 
@@ -35,7 +35,7 @@ The files you'll be completing are `QuickFindUF.java`, `QuickUnionUF.java`, and 
 
 `UFClient` is provided complete, and you shouldn't change it. Use it to test your classes. For each pair, if `p` and `q` aren't already connected, it unions them and prints the pair. At the end, it prints the number of components.
 
-Everything you need to know to complete this assignment can be found on the [union-find slideset](https://github.com/ben-allen/CIS-023/blob/main/slides/cis%20023%20-%20union-find.pdf), and in the associated videos (available in Module 2 on canvas)
+Everything you need to know to complete this assignment can be found on the [union-find slideset](https://github.com/ben-allen/CIS-023/blob/main/slides/cis%20023%20-%20union-find.pdf){:target="_blank" rel="noopener"}, and in the associated videos (available in Module 2 on canvas)
 
 
 ### The union rule
@@ -49,7 +49,7 @@ The lecture slides happen to use the opposite choice in the quick-find example. 
 
 ## Part 1: QuickFindUF
 
-Fill in the methods in `QuickFindUF.java`. The array `id` stores each element's component id, just like `Labels` in [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html).
+Fill in the methods in `QuickFindUF.java`. The array `id` stores each element's component id, just like `Labels` in [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html){:target="_blank" rel="noopener"}.
 
 ```java
 public QuickFindUF(int n)               // n elements, each in its own component
@@ -67,13 +67,13 @@ Hint: in `union`, save `find(p)` and `find(q)` in variables *before* the loop. I
 
 Fill in the methods in `QuickUnionUF.java`. It has the same methods as `QuickFindUF`, but the array `parent` stores each element's parent in a tree. An element whose parent is itself is a root.
 
-- `find(p)` follows parents from `p` up to the root and returns the root. This is `follow` from [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html).
+- `find(p)` follows parents from `p` up to the root and returns the root. This is `follow` from [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html){:target="_blank" rel="noopener"}.
 - `union(p, q)` finds both roots. If they're different, it sets p's root to point to q's root. Only one array entry changes.
 - `connected` and `count` work the same way as in quick-find.
 
 ## Part 3: Test with UFClient
 
-`UFClient` reads `uf.txt`, which uses the same format as `pairs.txt` from [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html):
+`UFClient` reads `uf.txt`, which uses the same format as `pairs.txt` from [Java Primer and Practice](https://ben-allen.github.io/CIS-023/assignments/practice%201.html){:target="_blank" rel="noopener"}:
 
 ```
 10
@@ -166,4 +166,3 @@ This assignment is worth 25 points, plus up to 4 points of extra credit.
 - [ ] You've also run `UFClient` with `QuickFindUF` confirmed the output is identical, and changed it back to `QuickUnionUF`
 - [ ] `trace.txt` answers all four questions in the format shown
 - [ ] Upload these files individually: `QuickFindUF.java`, `QuickUnionUF.java`, `trace.txt`, and `WeightedQuickUnionUF.java` if you did the extra credit. You don't need to upload `UFClient.java`.
-
