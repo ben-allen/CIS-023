@@ -128,7 +128,9 @@ for (int i = 1; i < n; i++) {
 
 ### Coding: a doubling experiment
 
-**11.** Download `PracticeCounter.java` and run it. It contains three methods:
+**11.** Download [`PracticeCounter.java`](https://raw.githubusercontent.com/ben-allen/CIS-023/main/practice-assignments/big-o-starter-code/PracticeCounter.java) and run it. IMPORTANT NOTE: Right-click the above link to download.
+
+`PracticeCounter.java` contains three methods:
 
 ```java
 public static long mysteryA(int n) {
