@@ -123,7 +123,9 @@ Let n be the length of the array.
 
 ### Coding: a doubling experiment
 
-**10.** Download `AssignmentCounter.java` and run it. It contains three methods:
+**10.** Download [`AssignmentCounter.java`](https://raw.githubusercontent.com/ben-allen/CIS-023/refs/heads/main/assignments/big-o-starter-code/AssignmentCounter.java) and run it. NOTE: Right click the link to download the file.
+
+`AssignmentCounter.java` contains three methods:
 
 ```java
 public static long mysteryA(int n) {
