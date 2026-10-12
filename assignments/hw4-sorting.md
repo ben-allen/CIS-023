@@ -341,16 +341,16 @@ In a plain text file called `experiment.txt`, answer the following.
 
 ## Points
 
-This assignment is worth 40 points.
+This assignment is worth 25 points: 10 for the checkpoint, and 15 for the final.
 
 | Part | Due | Points |
 |---|---|---|
-| Part 1: Insertion sort | Checkpoint | 6 |
-| Part 2: Mergesort | Checkpoint | 9 |
-| Part 3: `trace.txt` | Checkpoint | 8 |
+| Part 1: Insertion sort | Checkpoint | 3 |
+| Part 2: Mergesort | Checkpoint | 3 |
+| Part 3: `trace.txt` | Checkpoint | 4 |
 | Part 4: Quicksort | Final | 7 |
-| Part 5: `partition.txt` | Final | 4 |
-| Part 6: Skip-the-merge line and `experiment.txt` | Final | 6 |
+| Part 5: `partition.txt` | Final | 3 |
+| Part 6: Skip-the-merge line and `experiment.txt` | Final | 5 |
 
 ## Submission checklist
 
