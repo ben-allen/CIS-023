@@ -23,6 +23,8 @@
   </script>
     <style>
       .embedded .site-title { display: none; }
+      .canvas-only { display: none; }
+      .embedded .canvas-only { display: block; }
     </style>
 
 {% seo %}
@@ -33,6 +35,10 @@
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h1 class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      {% endif %}
+
+      {% if page.name == "README.md" %}
+      <p class="canvas-only">You're viewing this inside Canvas. Assignments, slides, and videos are organized week by week under <strong>Modules</strong> in the course menu on the left, which is likely the easiest way for you to access course materials.</p>
       {% endif %}
 
       {{ content }}
