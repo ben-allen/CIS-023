@@ -46,7 +46,6 @@ We will explore standard Java libraries, Java generics, features such as the Jav
 3. Analyze the complexity of algorithms, and design and implement efficient code
 4. Understand and describe the most commonly used algorithms for sorting and searching, including balanced search trees and hash tables
 5. Understand and describe common graph algorithms, including graph traversals, minimum spanning trees, and shortest paths
-6. Understand and describe basic string operations, including sorting, searching, regular expressions, and string compression
 7. Write code using good coding practices
 
 > **Note:** Often when working on the exercises and projects you will find yourself quite frustrated, with very few ideas on how to start developing a solution to the problem. Programming is a task that requires creativity and intuition, as is the analysis of algorithms. By persevering past your initial frustration, you will get practice with the types of creativity that computer science requires, and develop an intuition for what sorts of strategies you should use to produce algorithms to efficiently solve problems.
@@ -110,7 +109,7 @@ GitHub is the tool used by the vast majority of professional open-source softwar
 
 ## Assignments and Grading
 
-There will be major assignments every week to two weeks. Assignments will be made available at the start of each week, along with lecture videos and slides related to the assignments. 
+There will be major assignments every week to two weeks. Assignments will be made available over each weekend, along with lecture videos and slides related to the assignments. 
 
 ### Grading breakdown
 
