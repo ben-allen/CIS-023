@@ -6,7 +6,7 @@ Solano Community College · Fall 2026 · Asynchronous (online) · Instructor: Be
 
 ## Using this site
 
-- Everything here is also embedded in our Canvas course. As I develop new materials I post them here first and then later mirror them on Canvas, so if the two ever seem to disagree, the version here is the up-to-date one.
+- Course materials are all available on the class [GitHub repository](https://github.com/ben-allen/CIS-023/). As I develop new materials I post them there first and then later mirror them on Canvas, so if the two ever seem to disagree, the version on GitHub is the up-to-date one.
 - Weekly videos are recorded Friday mornings over Zoom (you're welcome to join live) and generally posted over the weekend.
 - Assignments are turned in on Canvas.
 - You don't need a GitHub account. Slides are PDFs and open right in your browser.
