@@ -14,7 +14,7 @@ In this assignment you'll:
 
 | | Due | What's due |
 |---|---|---|
-| Homework 6 | Wednesday, November 25 | Parts 1–5 |
+| Homework 6 | Tuesday, November 24 | Parts 1–5 |
 
 ## Starter code
 
